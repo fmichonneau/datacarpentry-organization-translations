@@ -91,6 +91,23 @@ Pour les ateliers organisés par Data Carpentry, les hôtes sont responsables de
 - Arranger café, thé, collation (les participants apprécient)
 - Envoyer les informations sur la participation à l'atelier et tout retour au coordinateur de Data Carpentry (admin@datacarpentry.org)
 
+### Les Responsabilités du coordinateur de Data Carpentry
+
+Pour les ateliers organisés par Data Carpentry, notre coordinateur se chargera de :
+
+- Aider l'hôte dans la sélection de la date et du lieu pour leur atelier
+- Recruter et choisir des formateurs qui répondent aux contraintes de l'hôte
+- Aider l'hôte à recruter des assistants locaux (si demandé)
+- Mettre en place les enquêtes d'avant et d'après atelier qui seront distribués par les formateurs aux participants
+- Communiquer avec les formateurs pour s'assurer que la plannification et l'enseignement se déroulent dans de bonnes conditions
+- Installer et admnistrer la page d'inscription pour l'atelier
+- Enregister les informations pertinentes à chaque atelier dans la base de données interne à Data Carpentry
+- Aider à annoncer l'atelier sur le compte Twitter de Data Carpentry and sur les listes de discussions (si demandé)
+- Contacter les formateurs pour participer aux discussions d'après atelier
+- Servir de point de contact pour l'hôte et les formateurs pour répondre aux questions et fournir des ressources supplémentaires si besoin.
+
+Le coordinateur des ateliers de Data Carpentry se charge de s'assurer que les ateliers soient une expérience enrichissante et de haute qualité pour répondre aux exigences de votre institution. Si vous avez des questions sur le rôle du coordinateur des ateliers, ou si vous souhaitez mettre en place des arrangements particuliers pour votre atelier, n'hésitez pas à contacter le coordinateur à admin@datacarpentry.org
+
 ### Les Responsabilités du formateur principal
 
 Le formateur principal est responsable de la coordination avec les co-formateurs et l'hôte du contenu de l'atelier. Ils sont aussi en charge de mettre en place le site internet pour l'atelier et pour la distribution des enquêtes auprès des participants. Toutes ces tâches peuvent être déléguées, mais c'est au formateur principal de s'assurer qu'elles soient accomplies. Si vous vous êtes vus assigné le rôle de formateur principal mais que vous n'êtes pas confortable dans cette position ou que vous vous rendez compte que vous n'avez pas le temps de remplir les tâches demandées, prenez contact avec le coordinateur de Data Carpentry le plus rapidement possible (admin@datacarpentry.org).
