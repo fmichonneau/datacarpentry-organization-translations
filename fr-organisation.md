@@ -5,11 +5,11 @@
 
 * Pour demander un atelier, remplissez ce [formulaire de demande (en anglais)](https://amy.software-carpentry.org/workshops/dc/request/). Nous vous demandons de nous préciser la période pendant laquelle vous souhaitez organiser l'atelier, et des informations sur le public visé, afin que nous puissions vous informer du programme d'atelier qui sera le plus adapté pour celui-ci.
 
-* Nous recruterons des formateurs volontaires pour votre atelier, et nous vous contacterons pour fixer une date et choisir le contenu de l'atelier qui répondra
+* Nous recruterons des formateurs et formatrices volontaires pour votre atelier, et nous vous contacterons pour fixer une date et choisir le contenu de l'atelier qui répondra
   le mieux à vos besoins.
 
 * Nous mettrons en place un site internet, et un système d'inscription (si
-  besoin) pour votre atelier. C'est à l'organisateur, vous, de décider si une
+  besoin) pour votre atelier. C'est à l'organisateur/organisatrice, vous, de décider si une
   participation financière est demandée aux participants. Souvent, nous avons
   observé que demander une participation de 20€ diminue considérablement le
   nombre de personnes qui s'inscrivent mais ne se présentent pas le jour de
@@ -17,23 +17,23 @@
   a une liste d'attente, il est préférable de proposer ces places aux personnes
   sur liste d'attente plutôt que d'avoir des sièges vides.
 
-* Le formateur principal sera votre point de contact pour coordonner les
-  détails de l'organisation et pour communiquer avec les participants à
-  l'atelier. Le formateur principal se chargera aussi de communiquer avec le
+* Le formateur principal ou la formatrice principale sera votre point de contact pour coordonner les
+  détails de l'organisation et pour communiquer avec les participant(e)s à
+  l'atelier. Le formateur principal ou la formatrice principale se chargera aussi de communiquer avec le
   personnel de Data Carpentry au besoin.
 
-* L'hôte (l'organisateur de l'atelier, vous) doit se charger de l'organisation sur
+* L'hôte ou l'hôtesse (l'organisateur ou organisatrice de l'atelier, vous) doit se charger de l'organisation sur
   place : réservation de la salle, s'assurer du nombre suffisant de prises
   électriques, mise à disposition de café, etc.
 
-* L'hôte et les formateurs organiseront ensemble les
-  déplacements avant l'atelier. Les formateurs ne connaîtront pas les lieux,
+* L'hôte(sse) et les formateurs/formatrices organiseront ensemble les
+  déplacements avant l'atelier. Les formateurs/formatrices ne connaîtront pas les lieux,
   donc l'aide que vous pourrez leur apporter avec la réservation de l'hôtel et
   le transport depuis l'aéroport ou la gare sera appréciée.
 
 ### Frais pour organiser un atelier
 
-Le coût de l'organisation d'un atelier comprend non seulement les frais administratifs d'organisation de l'atelier, mais aussi les frais de déplacements pour deux formateurs.
+Le coût de l'organisation d'un atelier comprend non seulement les frais administratifs d'organisation de l'atelier, mais aussi les frais de déplacements pour deux formateurs/formatrices.
 
 * **Frais administratifs de l'atelier**: US$2500 -- ceci est le prix pour les
   organisations à but non lucratif (universités, organisations gouvernementales,
@@ -44,8 +44,8 @@ Le coût de l'organisation d'un atelier comprend non seulement les frais adminis
   par cas.
 
 * **Frais de déplacements pour les formateurs**: ~ US$2000. Tous nos
-  formateurs sont des volontaires, mais l'hôte s'engage à couvrir la totalité
-  de leurs frais de déplacement. Nous essayons de recruter des formateurs
+  formateurs/formatrices sont des volontaires, mais l'hôte(sse) s'engage à couvrir la totalité
+  de leurs frais de déplacement. Nous essayons de recruter des formateurs/formatrices
   proches, mais nous suggérons que vous budgétisez environ $2000 pour les frais
   de déplacement, les repas, et l'hébergement des formateurs. Les détails des
   modalités de remboursement sont à établir au moment de la planification de
@@ -53,47 +53,47 @@ Le coût de l'organisation d'un atelier comprend non seulement les frais adminis
 
 &ast; 50% des frais administratifs pour les ateliers organisés par des organisations à but lucratif servent à supporter les ateliers dans des zones qui ont des difficultés financières.
 
-### Les Responsabilités de l'hôte
+### Les Responsabilités de l'hôte(sse)
 
-Pour les ateliers organisés par Data Carpentry, les hôtes sont responsables de toute la logistique locale, alors que le coordinateur de Data Carpentry se charge du reste (voir paragraphe ci-dessous). Si votre atelier est organisé en autonomie, l'hôte est en charge de toute l'organisation (voir section "Ateliers organisés en autonomie").
+Pour les ateliers organisés par Data Carpentry, les hôte(sse)s sont responsables de toute la logistique locale, alors que le coordinateur/la coordinatrice de Data Carpentry se charge du reste (voir paragraphe ci-dessous). Si votre atelier est organisé en autonomie, l'hôte(sse) est en charge de toute l'organisation (voir section "Ateliers organisés en autonomie").
 
 - Choisir le [programme](http://www.datacarpentry.org/workshops/) qui sera le
-  plus approprié pour vos participants
+  plus approprié pour vos participant(e)s
 - Remplir le [formulaire de demande d'atelier](https://amy.software-carpentry.org/workshops/dc/request/)
-- Choisir avec le [coordinateur de Data Carpentry](admin@datacarpentry.org) la date et le lieu pour l'atelier
+- Choisir avec le [coordinateur/la coordinatrice de Data Carpentry](admin@datacarpentry.org) la date et le lieu pour l'atelier
 - Choisir et réserver la salle pour l'atelier
-- S'assurer que la salle choisie est accessible à tous les participants:
-  * demander sur le formulaire d'inscription si les participants ont des demandes particulières (par exemple, interprète de la langue des signes, **handout** imprimés en gros caractères, salle d'allaitement)
-  * demander aux formateurs et aux assistants s'ils ont des demandes particulières
-  * envoyer les liens pour le contenu de l'atelier à l'avance pour que les participants puissent les adapter si besoin.
+- S'assurer que la salle choisie est accessible à tous les participant(e)s:
+  * demander sur le formulaire d'inscription si les participant(e)s ont des demandes particulières (par exemple, interprète de la langue des signes, **handout** imprimés en gros caractères, salle d'allaitement)
+  * demander aux formateurs/formatrices et aux assistant(e)s s'ils ont des demandes particulières
+  * envoyer les liens pour le contenu de l'atelier à l'avance pour que les participant(e)s puissent les adapter si besoin.
 	* le bâtiment et la salle pour l'atelier sont accessibles à ceux qui ne peuvent pas utiliser les escaliers.
 	* l'ascenseur est disponible pour l'intégralité de la durée de l'atelier
-	* il y a des toilettes accessibles à proximité de la salle de l'atelier
+	* il y a des toilettes accessibles aux personnes à mobilité réduite à proximité de la salle de l'atelier
 	* la salle peut accueillir les chiens guides.
 	* un microphone est disponible pour le formateur
 	* l'écran du projecteur est suffisamment grand pour être facile à lire.
-	* Si des participants, les formateurs, ou les assistants indiquent à l'avance des besoins particuliers, l'hôte est en charge de s'assurer que tout est en place pour le jour de l'atelier. L'institution hôte a peut être un service d'aide et d'accompagnement aux personnes handicapées qui puisse vous aider.
-- Recruter des assistants pour l'atelier (au moins un assistant pour 12
+	* Si des participants, les formateurs/formatrices, ou les assistant(e)s indiquent à l'avance des besoins particuliers, l'hôte est en charge de s'assurer que tout est en place pour le jour de l'atelier. L'institution hôte a peut être un service d'aide et d'accompagnement aux personnes handicapées qui puisse vous aider.
+- Recruter des assistant(e)s pour l'atelier (au moins un assistant pour 12
   participants).
 - Annoncer l'atelier
 - Payer les frais administratifs pour l'organisation de l'atelier et les frais des formateurs.
-- S'assurer que les formateurs sachent comment demander le remboursement de leurs frais
-- Demander les numéros de téléphone des formateurs et des assistants en cas de changements de dernière minute
+- S'assurer que les formateurs/formatrices sachent comment demander le remboursement de leurs frais
+- Demander les numéros de téléphone des formateurs/formatrices et des assistant(e)s en cas de changements de dernière minute
 - Obtenir tout le matériel nécessaire
   * un projecteur
   * les adaptateurs nécessaires
   * rallonges et multi-prises
   * mot de passe et nom d'utilisateurs pour accéder au wifi si besoin
-  * post-it de deux couleurs
+  * post-its de deux couleurs
   * badges (autocollants) pour les noms, et crayons
   * liste des participants à l'atelier pour l'appel
   * formulaires d'autorisation à la publication et l'utilisation de photos (si besoin)
 - Arranger café, thé, collation (les participants apprécient)
 - Envoyer les informations sur la participation à l'atelier et tout retour au coordinateur de Data Carpentry (admin@datacarpentry.org)
 
-### Les Responsabilités du coordinateur de Data Carpentry
+### Les Responsabilités du coordinateur/de la coordinatrice de Data Carpentry
 
-Pour les ateliers organisés par Data Carpentry, notre coordinateur se chargera de :
+Pour les ateliers organisés par Data Carpentry, notre coordinateur/coordinatrice se chargera de :
 
 - Aider l'hôte dans la sélection de la date et du lieu pour leur atelier
 - Recruter et choisir des formateurs qui répondent aux contraintes de l'hôte
