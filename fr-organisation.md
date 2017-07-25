@@ -189,46 +189,46 @@ Ces modèles de courriels sont seulement fournis à titre indicatif. Nous espér
 
 ### Pour les ateliers organisés en autonomie seulement
 
-#### Recruter des co-formateurs/assistants
+#### Recruter des co-formateurs/co-formatrices (aussi appelé(e)s assistant(e)s)
 
 Bonjour [nom],
 
-J'organise un atelier Data Carpentry en [mois prévu]. Data Carpentry est une organisation à but non-lucratif qui aide les chercheurs à apprendre comment organiser et analyser leurs données de manière efficace et reproductible. Ces ateliers enseignent des compétences qui sont immédiatement utiles aux chercheurs, en utilisant des jeux de données spécifiques à leur domaine d'expertise, afin qu'ils puissent appliquer rapidement ce qu'ils apprennent à leur propres données. Je suis très enthousiaste à l'idée d'utiliser le contenu des ateliers Data Carpentry ici pour aider nos [thésards, équipes, personnels, enseignants, chercheurs... ] à être plus efficaces dans leur recherche.
+J'organise un atelier Data Carpentry en [mois prévu]. Data Carpentry est une organisation à but non-lucratif qui aide les chercheurs à apprendre comment organiser et analyser leurs données de manière efficace et reproductible. Ces ateliers enseignent des compétences qui sont immédiatement utiles aux chercheurs, en utilisant des jeux de données spécifiques à leur domaine d'expertise, afin qu'ils puissent appliquer rapidement ce qu'ils apprennent à leur propres données. Je suis très enthousiaste à l'idée d'utiliser le contenu des ateliers Data Carpentry ici pour aider nos [thésards/thésards, équipes, personnels, enseignants/enseignantes, chercheurs/chercheuses... ] à être plus efficaces dans leur recherche.
 
-J'ai suivi la formation pédagogique pour devenir formateur Data Carpentry, et je suis certifié-e pour enseigner leurs ateliers. Afin d'organiser un de leurs atelier, je vais avoir besoin d'un (préféremment deux) co-formateurs pour m'aider à enseigner le contenu de l'atelier. Ces ateliers durent deux jours et les formateurs généralement alternent après chaque demi-journée. Je pense couvrir [les sujets de votre atelier], et j'espérai que tu puisses enseigner le module sur [sujet]. Data Carpentry fournit des leçons qui sont prêtes à être enseignées, donc nous n'aurons pas à tout faire de zéro. Si tu es intéressé, tu peux voir le contenu sur [sujet] ici [lien vers la leçon], et le reste du contenu de leurs ateliers ici: http://datacarpentry.org/lessons
+J'ai suivi la formation pédagogique pour devenir formateur Data Carpentry, et je suis certifié-e pour enseigner leurs ateliers. Afin d'organiser un de leurs atelier, je vais avoir besoin d'un (préféremment deux) co-formateurs/co-formatrices pour m'aider à enseigner le contenu de l'atelier. Ces ateliers durent deux jours et les formateurs/formatrices généralement alternent après chaque demi-journée. Je pense couvrir [les sujets de votre atelier], et j'espérai que tu puisses enseigner le module sur [sujet]. Data Carpentry fournit des leçons qui sont prêtes à être enseignées, donc nous n'aurons pas à tout faire de zéro. Si tu es intéressé, tu peux voir le contenu sur [sujet] ici [lien vers la leçon], et le reste du contenu de leurs ateliers ici: http://datacarpentry.org/lessons
 
-Si tu es intéressé-e pour être un co-formateur, dis-le moi et on peut se voir pour s'organiser. Si tu connais d'autres personnes qui seraient intéressées pour nous aider, n'hésite pas à les contacter.
+Si tu es intéressé-e pour être un co-formateur, dis-le moi et nous pouvons nous voir pour nous organiser. Si tu connais d'autres personnes qui seraient intéressées pour nous aider, n'hésite pas à les contacter.
 
 ### Pour tous les ateliers
 
-#### Recruter des assistants
+#### Recruter des assistant(e)s
 
 Bonjour [nom],
 
-J'organise un atelier Data Carpentry en [mois prévu]. Data Carpentry est une organisation à but non-lucratif qui aide les chercheurs à apprendre comment organiser et analyser leurs données de manière efficace et reproductible. Ces ateliers enseignent des compétences qui sont immédiatement utiles aux chercheurs, en utilisant des jeux de données spécifiques à leur domaine d'expertise, afin qu'ils puissent appliquer rapidement ce qu'ils apprennent à leur propres données. Je suis très enthousiaste à l'idée d'utiliser le contenu des ateliers Data Carpentry ici pour aider nos [thésards, équipes, personnels, enseignants, chercheurs... ] à être plus efficaces dans leur recherche.
+J'organise un atelier Data Carpentry en [mois prévu]. Data Carpentry est une organisation à but non-lucratif qui aide les chercheurs/chercheuses à apprendre comment organiser et analyser leurs données de manière efficace et reproductible. Ces ateliers enseignent des compétences qui sont immédiatement utiles aux chercheurs/chercheuses, en utilisant des jeux de données spécifiques à leur domaine d'expertise, afin qu'ils puissent appliquer rapidement ce qu'ils apprennent à leur propres données. Je suis très enthousiaste à l'idée d'utiliser le contenu des ateliers Data Carpentry ici pour aider nos [thésards/thésards, équipes, personnels, enseignants/enseignantes, chercheurs/chercheuses... ] à être plus efficaces dans leur recherche.
 
-Pendant l'atelier, je vais avoir besoin d'assistants pour aider au cas où les participants soient confrontés à des problèmes ou soient coincés. Les assistants pour ces ateliers se déplacent parmi les participants pour répondre à leurs questions et les aider s'ils ont des problèmes d'installation, des messages d'erreur, ou ont des résultats inattendus. Tu n'as pas besoin d'être un expert dans les outils que l'on utilise pendant cet atelier, juste que tu saches les utiliser pour pouvoir dépanner quelqu'un qui s'en sert pour la première fois. Pendant cet atelier, nous pensons parler de [liste des sujets], et je pense que tu pourras beaucoup nous aider. Si tu es intéressé-e, tu peux voir le contenu des leçons que nous enseigneront ici [liens]. N'hésite pas à me contacter si tu es intéressé-e pour être un de nos assistants, et si tu connais d'autres personnes qui seraient susceptibles de nous aider.
+Pendant l'atelier, je vais avoir besoin d'assistant(e)s pour aider au cas où des participant(e)s sont confronté(e)s à des problèmes ou sont bloqué(e)s. Les assistant(e)s pour ces ateliers se déplacent parmi les participant(e)s pour répondre à leurs questions et les aider s'ils ont des problèmes d'installation, des messages d'erreur, ou ont des résultats inattendus. Tu n'as pas besoin d'être un(e) expert(e) dans les outils que l'on utilise pendant cet atelier, juste que tu saches les utiliser pour pouvoir dépanner quelqu'un qui s'en sert pour la première fois. Pendant cet atelier, nous pensons parler de [liste des sujets], et je pense que tu pourras beaucoup nous aider. Si tu es intéressé-e, tu peux voir le contenu des leçons que nous enseigneront ici [liens]. N'hésite pas à me contacter si tu es intéressé-e pour être un de nos assistant(e)s, et si tu connais d'autres personnes qui seraient susceptibles de nous aider.
 
 #### Annoncer votre atelier
 
 [Nom de l'institution/organisation] atelier Data Carpentry [dates, lieu]
 
-Le [date], [nom de l'institution/organisation] accueille un atelier Data Carpentry pour [audience cible, sujet]. Les ateliers Data Carpentry enseignent les compétences nécessaires pour débuter avec l'organisation et l'analyse des données dans tous les domaines de recherche. Leur mission est de fournir aux chercheurs une formation accueillante, de haute qualité qui couvre tout le cycle de vie de la recherche basée les données. Les leçon sont spécifiques à des domaines de recherche, et cet atelier se focalise sur [sujet]. Le contenu de l'atelier contiendra :
+Le [date], [nom de l'institution/organisation] accueille un atelier Data Carpentry pour [audience cible, sujet]. Les ateliers Data Carpentry enseignent les compétences nécessaires pour débuter avec l'organisation et l'analyse des données dans tous les domaines de recherche. Leur mission est de fournir aux chercheurs/chercheuses une formation accueillante, de haute qualité qui couvre tout le cycle de vie de la recherche basée les données. Les leçons sont spécifiques à des domaines de recherche, et cet atelier se focalise sur [sujet]. Le contenu de l'atelier contiendra :
 
 - [leçon]
 - [leçon]
 - [leçon]
 - [leçon]
 
-Ces ateliers sont destinées à ceux qui ont peu ou pas d'expérience en programmation, et les formatteurs font l'une de leur priorités de créer un environement accueillant pour donner aux chercheurs la confiance dont ils ont besoin pour qu'ils puissent utiliser leurs données pour faire des découvertes. Les participants qui ont déjà un peu d'expérience profiteront de cet atelier, car le but n'est pas seulement d'enseigner comment faire des analyses, mais aussi comment organiser ses analyses pour automatiser le processus et le rendre reproductible.
+Ces ateliers sont destinées à ceux qui ont peu ou pas d'expérience en programmation, et les formateurs/formatrices font l'une de leur priorités de créer un environement accueillant pour donner aux chercheurs/chercheuses la confiance dont ils ont besoin pour qu'ils puissent utiliser leurs données pour faire des découvertes. Les participant(e)s qui ont déjà un peu d'expérience profiteront de cet atelier, car le but n'est pas seulement d'enseigner comment faire des analyses, mais aussi comment organiser ses analyses pour automatiser le processus et le rendre reproductible.
 
 Le nombre de places pour cet atelier est limité, et il est probable que l'atelier soit complet rapidement. [Ajouter une phrase pour préciser si l'atelier est gratuit ou s'il y a des frais d'inscriptions à payer]. Pour vous inscrire, cliquer ici [lien vers la page d'inscription], et pour plus d'informations, vous pouvez visiter la page de l'atelier ici [lien vers le site internet de l'atelier].
 
-##### Email à envoyer aux participants avant l'atelier
+##### Email à envoyer aux participant(e)s avant l'atelier
 
 Bonjour,
 
-Nous sommes impatients pour l'atelier Data Carpentry qui aura lieu [jour et dates] et nous espérons que vous l'êtes aussi. Voici quelques rappels en préparation pour l'atelier :
+Nous sommes impatient(e)s pour l'atelier Data Carpentry qui aura lieu [jour et dates] et nous espérons que vous l'êtes aussi. Voici quelques rappels en préparation pour l'atelier :
 
 Soyez sûr-e que vous ayez complété l'enquête d'avant-atelier [lien vers l'enquête]. Nous utilisons ces informations pour adapter le contenu, et la vitesse de l'instruction, et avec les résultat de l'enquête d'après-atelier, pour mesurer le succès de l'atelier.
 
@@ -246,12 +246,12 @@ Voici quelque liens vers des ressources que vous utiliserons pendant l'atelier :
 
 Pour trouver la salle où se déroulera l'atelier : [ajouter les indications pour accéder au bâtiment et à la salle].
 
-Merci de lire le code de conduite pour Data Carpentry [http://datacarpentry.org/code-of-conduct] afin que nous soyons tous avisés sur la manière de traiter tous les participants, les formateurs, et les assistants avec respect.
+Merci de lire le code de conduite pour Data Carpentry [http://datacarpentry.org/code-of-conduct] afin que nous soyons tous et toutes au point sur la manière de traiter tou(te)s les participant(e)s, les formateurs/formatrices, et les assistant(e)s avec respect.
 
 N'hésitez pas à nous contacter si vous avez des questions, sinon à [jour de l'atelier] !
 
 
-#### Email à envoyer aux participants après l'atelier
+#### Email à envoyer aux participant(e)s après l'atelier
 
 Bonjour,
 
