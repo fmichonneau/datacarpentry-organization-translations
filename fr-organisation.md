@@ -95,67 +95,66 @@ Pour les ateliers organisés par Data Carpentry, les hôte(sse)s sont responsabl
 
 Pour les ateliers organisés par Data Carpentry, notre coordinateur/coordinatrice se chargera de :
 
-- Aider l'hôte dans la sélection de la date et du lieu pour leur atelier
-- Recruter et choisir des formateurs qui répondent aux contraintes de l'hôte
-- Aider l'hôte à recruter des assistants locaux (si demandé)
-- Mettre en place les enquêtes d'avant et d'après atelier qui seront distribués par les formateurs aux participants
+- Aider l'hôte(sse) dans la sélection de la date et du lieu pour leur atelier
+- Recruter et choisir des formateurs/formatrices qui répondent aux contraintes de l'hôte
+- Aider l'hôte(sse) à recruter des assistant(e)s locaux (si demandé)
+- Mettre en place les enquêtes d'avant et d'après atelier qui seront distribués par les formateurs/formatrices aux participant(e)s
 - Communiquer avec les formateurs pour s'assurer que la plannification et l'enseignement se déroulent dans de bonnes conditions
 - Installer et admnistrer la page d'inscription pour l'atelier
 - Enregister les informations pertinentes à chaque atelier dans la base de données interne à Data Carpentry
 - Aider à annoncer l'atelier sur le compte Twitter de Data Carpentry and sur les listes de discussions (si demandé)
 - Contacter les formateurs pour participer aux discussions d'après atelier
-- Servir de point de contact pour l'hôte et les formateurs pour répondre aux questions et fournir des ressources supplémentaires si besoin.
+- Servir de point de contact pour l'hôte(sse) et les formateurs/formatrices pour répondre aux questions et fournir des ressources supplémentaires si besoin.
 
-Le coordinateur des ateliers de Data Carpentry se charge de s'assurer que les ateliers soient une expérience enrichissante et de haute qualité pour répondre aux exigences de votre institution. Si vous avez des questions sur le rôle du coordinateur des ateliers, ou si vous souhaitez mettre en place des arrangements particuliers pour votre atelier, n'hésitez pas à contacter le coordinateur à admin@datacarpentry.org
+Le coordinateur ou la coordinatrice des ateliers de Data Carpentry se charge de s'assurer que les ateliers soient une expérience enrichissante et de haute qualité pour répondre aux exigences de votre institution. Si vous avez des questions sur le rôle du coordinateur ou de la coordinatrice des ateliers, ou si vous souhaitez mettre en place des arrangements particuliers pour votre atelier, n'hésitez pas à contacter le coordinateur ou la coordinatrice à admin@datacarpentry.org
 
-### Les Responsabilités du formateur principal
+### Les Responsabilités du formateur principal/de la formatrice principale
 
-Le formateur principal est responsable de la coordination avec les co-formateurs et l'hôte du contenu de l'atelier. Ils sont aussi en charge de mettre en place le site internet pour l'atelier et pour la distribution des enquêtes auprès des participants. Toutes ces tâches peuvent être déléguées, mais c'est au formateur principal de s'assurer qu'elles soient accomplies. Si vous vous êtes vus assigné le rôle de formateur principal mais que vous n'êtes pas confortable dans cette position ou que vous vous rendez compte que vous n'avez pas le temps de remplir les tâches demandées, prenez contact avec le coordinateur de Data Carpentry le plus rapidement possible (admin@datacarpentry.org).
+Le formateur principal/la formatrice principale est responsable de la coordination avec les co-formateurs/co-formatrices et l'hôte(sse) du contenu de l'atelier. Ils sont aussi en charge de mettre en place le site internet pour l'atelier et pour la distribution des enquêtes auprès des participant(e)s. Toutes ces tâches peuvent être déléguées, mais c'est au formateur principal/ à la formatrice principale de s'assurer qu'elles soient accomplies. Si vous vous êtes vus assigné le rôle de formateur principal ou formatrices principale mais que vous n'êtes pas confortable dans cette position ou que vous vous rendez compte que vous n'avez pas le temps de remplir les tâches demandées, prenez contact avec le coordinateur ou la coordinatrice de Data Carpentry le plus rapidement possible (admin@datacarpentry.org).
 
-L'instructeur principal est aussi responsable de la préparation du contenu de l'atelier, voir les responsabilités du formateur ci-dessous.
+Le formateur principal/la formatrice principale est aussi responsable de la préparation du contenu de l'atelier, voir les responsabilités du formateur / de la formatrice ci-dessous.
 
 #### Avant l'atelier
 
-- Avec l'hôte et les autres formateurs, décider de ce qui va être enseigné
+- Avec l'hôte(sse) et les autres formateurs/formatrices, décider de ce qui va être enseigné
   pendant l'atelier et qui enseignera quoi pour chaque leçon
 - Créer un etherpad pour votre atelier à
   http://pad.software-carpentry.org/YYYY-MM-DD-site (où “YYYY-MM-DD-site” est
   l'identifiant pour votre atelier).
 - Créer le [site internet](https://github.com/datacarpentry/workshop-template)
   pour votre atelier
-- Aider l'hôte à recruter des assistants pour l'atelier (au moins 1 assistant
-  pour 12 participants)
-- S'assurer en coordination avec l'hôte que l'atelier est accessible
+- Aider l'hôte(sse) à recruter des assistant(e)s pour l'atelier (au moins 1 assistant(e)
+  pour 12 participant(e)s)
+- S'assurer en coordination avec l'hôte(sse) que l'atelier est accessible
 - Se préparer à enseigner le contenu pédagogique de l'atelier
-- Envoyer un email aux participants pour leur rappeler du lieu et des heures de
+- Envoyer un email aux participant(e)s pour leur rappeler du lieu et des heures de
   l'atelier, ainsi que des logiciels et autres pré-requis qu'ils doivent
   installer avant de venir à l'atelier. Cet email doit aussi contenir le lien de
   l'enquête d'avant-atelier.
-- S'assurer avec l'hôte que tout le matériel nécessaire pour l'atelier est
+- S'assurer avec l'hôte(sse) que tout le matériel nécessaire pour l'atelier est
   disponible, en particulier les post-its.
 
 #### Pendant l'atelier
 
-- S'assurer que les noms et emails des participants sont collectés pendant
+- S'assurer que les noms et adresses électroniques des participant(e)s sont collectés pendant
   l'atelier
 - Envoyer le lien, et s'assurer de la complétion de l'enquête d'après atelier.
 
 #### Après l'atelier
 
-- Coordonner avec l'hôte pour envoyer au coordinateur de Data Carpentry les informations sur les participants à l'atelier.
-- Compléter les mêmes taches d'après atelier que les formateurs
+- Coordonner avec l'hôte(sse) pour envoyer au coordinateur ou à la coordinatrice de Data Carpentry les informations sur les participants à l'atelier.
+- Compléter les mêmes taches d'après atelier que les formateurs/formatrices
 
-### Les Responsabilités de tous les formateurs
+### Les Responsabilités de tous les formateurs/formatrices
 
-Chaque formateur est responsable de la préparation de l'enseignement de leur(s) section(s). N'oubliez pas que le contenu de nos leçon évolue sans cesse, et que même si vous avez enseigné dans le passé, vous devrez vérifier le contenu pour tout changement éventuel.
+Chaque formateur/formatrices est responsable de la préparation de l'enseignement de leur(s) section(s). N'oubliez pas que le contenu de nos leçon évolue sans cesse, et que même si vous avez enseigné dans le passé, vous devrez vérifier le contenu pour tout changement éventuel.
 
 #### Avant l'atelier
 
-- Coordonner avec l'instructeur principal pour décider qui enseigne quoi, et
+- Coordonner avec le formateur principal/la formatrice principale pour décider qui enseigne quoi, et
   dans quel ordre.
 - Si votre atelier est organisé en autonomie, et que vous n'ếtes pas un
-  formateur Data Carpentry certifié, vous devrez organiser une réunion avec le
-  formateur principal pour être formé aux pratiques pédagogiques de Data
+  formateur/une formatrice Data Carpentry certifié(e), vous devrez organiser une réunion avec le formateur principal/la formatrice principale pour être formé aux pratiques pédagogiques de Data
   Carpentry.
 - Tester que les instructions pour l'installation des logiciels et données pour
   l'atelier fonctionnent correctement
@@ -167,26 +166,26 @@ Chaque formateur est responsable de la préparation de l'enseignement de leur(s)
 
 #### Pendant l'atelier
 
-- Rappeler aux participants de l'existence d'un code de conduite
-- Rappeler aux participants comment utiliser les post-its
-- Demander aux participants des commentaires à la mi-journée et en fin de journée
+- Rappeler aux participant(e)s de l'existence d'un code de conduite
+- Rappeler aux participant(e)s comment utiliser les post-its
+- Demander aux participant(e)s des commentaires à la mi-journée et en fin de journée
 
 
 #### Après l'atelier
 
 - Participer à une discussion d'après-atelier en ligne
-- Envoyer tout commentaire au coordinateur de Data Carpentry
+- Envoyer tout commentaire au coordinateur ou à la coordinatrice de Data Carpentry
 - Signaler tout problème avec les instructions d'installation
 - Signaler toute erreur dans les leçons, ou suggérer des améliorations soit par
   GitHub ou par email.
 
 ## Ateliers organisés en autonomie
 
-Êtes-vous un formateur pour Data Carpentry intéressé par l'organisation d'un atelier pour votre groupe ou votre organisation ? Pour les ateliers organisés par Data Carpentry, pour s'assurer de la qualité de l'organisation et des communications avant et après l'atelier, le personnel de Data Carpentry se charge de toute la logistique non-locale qui inclut l'inscription des participants, la mise en place du programme, la communication avec les participants, la distributions des enquêtes, et le recrutement des formateurs. Dans le cas d'un atelier organisé en autonomie, c'est un organisateur local qui se charge de toute la logistique de la mise en place de l'atelier sans l'aide du personnel de Data Carpentry. Data Carpentry doit cependant être informé des ateliers organisés en autonomie.
+Êtes-vous un formateur/une formatrice pour Data Carpentry intéressé par l'organisation d'un atelier pour votre groupe ou votre organisation ? Pour les ateliers organisés par Data Carpentry, pour s'assurer de la qualité de l'organisation et des communications avant et après l'atelier, le personnel de Data Carpentry se charge de toute la logistique non-locale qui inclut l'inscription des participant(e)s, la mise en place du programme, la communication avec les participant(e)s, la distributions des enquêtes, et le recrutement des formateurs/formatrices. Dans le cas d'un atelier organisé en autonomie, c'est un organisateur local ou une organisatrice locale qui se charge de toute la logistique de la mise en place de l'atelier sans l'aide du personnel de Data Carpentry. Data Carpentry doit cependant être informé des ateliers organisés en autonomie.
 
-## Modèles d'emails
+## Modèles de courriels
 
-Ces modèles d'emails sont seulement fournis à titre indicatif. Nous espérons qu'ils vous seront utiles dans la planification de votre atelier. N'hésitez pas à les modifier si nécessaire. Le texte [entre parenthèses carrées] devra être remplacé par les informations propres à votre atelier.
+Ces modèles de courriels sont seulement fournis à titre indicatif. Nous espérons qu'ils vous seront utiles dans la planification de votre atelier. N'hésitez pas à les modifier si nécessaire. Le texte [entre parenthèses carrées] devra être remplacé par les informations propres à votre atelier.
 
 ### Pour les ateliers organisés en autonomie seulement
 
