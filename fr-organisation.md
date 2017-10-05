@@ -10,8 +10,7 @@
 
 * Nous mettrons en place un site internet, et un système d'inscription (si
   besoin) pour votre atelier. C'est à l'organisateur⋅rice, vous, de décider si une
-  participation financière est demandée aux participant⋅e⋅s. Souvent, nous avons
-  observé que demander une participation de 20€ diminue considérablement le
+  participation financière est demandée aux participant⋅e⋅s. Une participation de 20€ diminue considérablement le
   nombre de personnes qui s'inscrivent mais ne se présentent pas le jour de
   l'atelier. Étant donné que ces ateliers sont le plus souvent pleins et qu'il y
   a une liste d'attente, il est préférable de proposer ces places aux personnes
@@ -28,14 +27,14 @@
 
 * L'hôte⋅sse et les formateur⋅rice⋅s organiseront ensemble les
   déplacements avant l'atelier. Les formateur⋅rice⋅s ne connaîtront pas les lieux,
-  donc l'aide que vous pourrez leur apporter avec la réservation de l'hôtel et
-  le transport depuis l'aéroport ou la gare sera appréciée.
+  et apprécieront donc l'aide que vous pourrez leur apporter pour la réservation de leur hôtel et
+  le transport depuis l'aéroport.
 
 ### Frais pour organiser un atelier
 
 Le coût de l'organisation d'un atelier comprend non seulement les frais administratifs d'organisation de l'atelier, mais aussi les frais de déplacements pour deux formateur⋅rice⋅s.
 
-* **Frais administratifs de l'atelier**: US$2500 -- ceci est le prix pour les
+* **Frais administratifs de l'atelier**: US$2500 -- il s'agit du prix pour les
   organisations à but non lucratif (universités, organisations gouvernementales,
   etc.). Pour les frais administratifs pour les organisations à but lucratif,
   merci de [nous contacter](mailto:tkteal@datacarpentry.org) &ast;.
@@ -51,7 +50,7 @@ Le coût de l'organisation d'un atelier comprend non seulement les frais adminis
   modalités de remboursement sont à établir au moment de la planification de
   l'atelier.
 
-&ast; 50% des frais administratifs pour les ateliers organisés par des organisations à but lucratif servent à supporter les ateliers dans des zones qui ont des difficultés financières.
+&ast; 50% des frais administratifs pour les ateliers organisés par des organisations à but lucratif servent à financer les ateliers dans des zones qui ont des difficultés financières.
 
 ### Les Responsabilités de l'hôte⋅sse
 
@@ -63,10 +62,10 @@ Pour les ateliers organisés par Data Carpentry, les hôte⋅sse⋅s sont respon
 - Choisir avec [le⋅a coordinateur⋅rice de Data Carpentry](admin@datacarpentry.org) la date et le lieu pour l'atelier
 - Choisir et réserver la salle pour l'atelier
 - S'assurer que la salle choisie est accessible à tou⋅te⋅s les participant⋅e⋅s:
-  * demander sur le formulaire d'inscription si les participant⋅e⋅s ont des demandes particulières (par exemple, interprète de la langue des signes, **handout** imprimés en gros caractères, salle d'allaitement)
+  * demander sur le formulaire d'inscription si les participant⋅e⋅s ont des demandes particulières (par exemple, interprète de la langue des signes, **polycopié** imprimés en gros caractères, salle d'allaitement)
   * demander aux formateur⋅rice⋅s et aux assistant⋅e⋅s s'ils ont des demandes particulières
   * envoyer les liens pour le contenu de l'atelier à l'avance pour que les participant⋅e⋅s puissent les adapter si besoin.
-	* le bâtiment et la salle pour l'atelier sont accessibles à ceux qui ne peuvent pas utiliser les escaliers.
+	* le bâtiment et la salle pour l'atelier sont accessibles à ceux qui ne peuvent pas utiliser les escaliers
 	* l'ascenseur est disponible pour l'intégralité de la durée de l'atelier
 	* il y a des toilettes accessibles aux personnes à mobilité réduite à proximité de la salle de l'atelier
 	* la salle peut accueillir les chiens guides.
@@ -85,32 +84,32 @@ Pour les ateliers organisés par Data Carpentry, les hôte⋅sse⋅s sont respon
   * rallonges et multi-prises
   * mot de passe et nom d'utilisateurs pour accéder au wifi si besoin
   * post-its de deux couleurs
-  * badges (autocollants) pour les noms, et crayons
+  * badges (autocollants) pour les noms et sytlos
   * liste des participant⋅e⋅s à l'atelier pour l'appel
   * formulaires d'autorisation à la publication et l'utilisation de photos (si besoin)
-- Arranger café, thé, collation (les participant⋅e⋅s apprécient)
+- S'occuper du café, du thé ou d'une collation (les participant⋅e⋅s apprécient)
 - Envoyer les informations sur la participation à l'atelier et tout retour au⋅à la coordinateur⋅rice de Data Carpentry (admin@datacarpentry.org)
 
-### Les Responsabilités du coordinateur/de la coordinatrice de Data Carpentry
+### Les Responsabilités du coordinat⋅rice de Data Carpentry
 
 Pour les ateliers organisés par Data Carpentry, notre coordinateur⋅rice se chargera de :
 
-- Aider l'hôte⋅sse dans la sélection de la date et du lieu pour leur atelier
-- Recruter et choisir des formateur⋅rice⋅s qui répondent aux contraintes de l'hôte
+- Aider l'hôte⋅sse dans le choix de la date et du lieu pour leur atelier
+- Recruter et choisir des formateur⋅rice⋅s qui correspondent aux contraintes de l'hôte
 - Aider l'hôte⋅sse à recruter des assistant⋅e⋅s locaux (si demandé)
 - Mettre en place les enquêtes d'avant et d'après atelier qui seront distribués par les formateur⋅rice⋅s aux participant⋅e⋅s
 - Communiquer avec les formateur⋅rice⋅s pour s'assurer que la plannification et l'enseignement se déroulent dans de bonnes conditions
 - Installer et admnistrer la page d'inscription pour l'atelier
-- Enregister les informations pertinentes à chaque atelier dans la base de données interne à Data Carpentry
-- Aider à annoncer l'atelier sur le compte Twitter de Data Carpentry and sur les listes de discussions (si demandé)
+- Enregister les informations pertinentes pour chaque atelier dans la base de données interne à Data Carpentry
+- Aider à diffuser l'annonce de l'atelier sur le compte Twitter de Data Carpentry et sur les listes de discussions (si demandé)
 - Contacter les formateur⋅rice⋅s pour participer aux discussions d'après atelier
-- Servir de point de contact pour l'hôte(sse) et les formateur⋅rice⋅s pour répondre aux questions et fournir des ressources supplémentaires si besoin.
+- Servir de point de contact pour l'hôte⋅sse et les formateur⋅rice⋅s pour répondre aux questions et fournir des ressources supplémentaires si besoin.
 
-Le⋅a coordinateur⋅rice des ateliers de Data Carpentry se charge de s'assurer que les ateliers soient une expérience enrichissante et de haute qualité pour répondre aux exigences de votre institution. Si vous avez des questions sur le rôle du⋅de la coordinateur⋅rice des ateliers, ou si vous souhaitez mettre en place des arrangements particuliers pour votre atelier, n'hésitez pas à contacter le⋅a coordinateur⋅rice à admin@datacarpentry.org
+Le⋅a coordinateur⋅rice des ateliers de Data Carpentry doit s'assurer que les ateliers soient une expérience enrichissante et de haute qualité pour répondre aux exigences de votre institution. Si vous avez des questions sur le rôle du⋅de la coordinateur⋅rice des ateliers, ou si vous souhaitez mettre en place des dispositions particulières pour votre atelier, n'hésitez pas à contacter le⋅a coordinateur⋅rice à admin@datacarpentry.org
 
 ### Les Responsabilités du formateur principal/de la formatrice principale
 
-Le⋅a formateur⋅rice principal⋅e est responsable de la coordination avec les co-formateur⋅rice⋅s et l'hôte⋅sse du contenu de l'atelier. Ils sont aussi en charge de mettre en place le site internet pour l'atelier et pour la distribution des enquêtes auprès des participant⋅e⋅s. Toutes ces tâches peuvent être déléguées, mais c'est au⋅à la formateur⋅rice principal⋅e de s'assurer qu'elles soient accomplies. Si vous vous êtes vus assigné le rôle de formateur⋅rice principal⋅e mais que vous n'êtes pas confortable dans cette position ou que vous vous rendez compte que vous n'avez pas le temps de remplir les tâches demandées, prenez contact avec le⋅a coordinateur⋅rice de Data Carpentry le plus rapidement possible (admin@datacarpentry.org).
+Le⋅a formateur⋅rice principal⋅e est responsable de la coordination avec les co-formateur⋅rice⋅s et l'hôte⋅sse du contenu de l'atelier. Il⋅elle⋅s s'occupent de mettre en place le site internet pour l'atelier et pour la distribution des enquêtes auprès des participant⋅e⋅s. Toutes ces tâches peuvent être déléguées, mais c'est au⋅à la formateur⋅rice principal⋅e de s'assurer qu'elles soient accomplies. Si vous vous êtes vu⋅e⋅s assigné⋅e le rôle de formateur⋅rice principal⋅e mais que vous n'êtes pas confortable dans cette position ou que vous vous rendez compte que vous n'avez pas le temps de remplir les tâches demandées, prenez contact avec le⋅a coordinateur⋅rice de Data Carpentry le plus rapidement possible (admin@datacarpentry.org).
 
 Le⋅a formateur⋅rice principal⋅e est aussi responsable de la préparation du contenu de l'atelier, voir les responsabilités du⋅de la formateur⋅rice ci-dessous.
 
@@ -125,9 +124,9 @@ Le⋅a formateur⋅rice principal⋅e est aussi responsable de la préparation d
   pour votre atelier
 - Aider l'hôte⋅sse à recruter des assistant⋅e⋅s pour l'atelier (au moins 1 assistant⋅e
   pour 12 participant⋅e⋅s)
-- S'assurer en coordination avec l'hôte⋅sse que l'atelier est accessible
+- S'assurer en coordination avec l'hôte⋅sse que l'atelier est accessible à tou⋅te⋅s
 - Se préparer à enseigner le contenu pédagogique de l'atelier
-- Envoyer un email aux participant⋅e⋅s pour leur rappeler du lieu et des heures de
+- Envoyer un email aux participant⋅e⋅s pour leur rappeler le lieu et les heures de
   l'atelier, ainsi que des logiciels et autres pré-requis qu'ils doivent
   installer avant de venir à l'atelier. Cet email doit aussi contenir le lien de
   l'enquête d'avant-atelier.
@@ -136,18 +135,18 @@ Le⋅a formateur⋅rice principal⋅e est aussi responsable de la préparation d
 
 #### Pendant l'atelier
 
-- S'assurer que les noms et adresses électroniques des participant⋅e⋅s sont collectés pendant
+- S'assurer que les noms et adresses électroniques des participant⋅e⋅s soient collectées pendant
   l'atelier
 - Envoyer le lien, et s'assurer de la complétion de l'enquête d'après atelier.
 
 #### Après l'atelier
 
-- Coordonner avec l'hôte⋅sse pour envoyer au⋅à la coordinateur⋅rice de Data Carpentry les informations sur les participant⋅e⋅s à l'atelier.
-- Compléter les mêmes taches d'après atelier que les formateur⋅rice⋅s
+- Se coordonner avec l'hôte⋅sse pour envoyer au⋅à la coordinateur⋅rice de Data Carpentry les informations sur les participant⋅e⋅s à l'atelier.
+- Compléter les mêmes tâches d'après atelier que les formateur⋅rice⋅s
 
 ### Les Responsabilités de tous les formateurs/formatrices
 
-Chaque formateur⋅rice est responsable de la préparation de l'enseignement de leur(s) section(s). N'oubliez pas que le contenu de nos leçon évolue sans cesse, et que même si vous avez enseigné dans le passé, vous devrez vérifier le contenu pour tout changement éventuel.
+Chaque formateur⋅rice est responsable de la préparation de l'enseignement de leur(s) section(s). N'oubliez pas que le contenu de nos leçons évolue sans cesse, et que même si vous avez enseigné dans le passé, vous devrez vérifier le contenu des leçons pour tout changement éventuel.
 
 #### Avant l'atelier
 
@@ -159,7 +158,7 @@ Chaque formateur⋅rice est responsable de la préparation de l'enseignement de 
 - Tester que les instructions pour l'installation des logiciels et données pour
   l'atelier fonctionnent correctement
 - Lire les leçons que vous allez enseigner en détail
-- S'il y a un guide d'instruction pour les leçons que vous allez enseigner, le
+- S'il y a un guide d'enseignement pour les leçons que vous allez enseigner, le
   lire en détail
 - Faire une répétition de l'ensemble de la leçon
 - Lire le guide de dépannage
@@ -185,7 +184,7 @@ Chaque formateur⋅rice est responsable de la préparation de l'enseignement de 
 
 ## Modèles de courriels
 
-Ces modèles de courriels sont seulement fournis à titre indicatif. Nous espérons qu'ils vous seront utiles dans la planification de votre atelier. N'hésitez pas à les modifier si nécessaire. Le texte [entre parenthèses carrées] devra être remplacé par les informations propres à votre atelier.
+Ces modèles de courriels sont seulement fournis à titre indicatif. Nous espérons qu'ils vous seront utiles dans la planification de votre atelier. N'hésitez pas à les modifier si nécessaire. Le texte [entre crochets] devra être remplacé par les informations propres à votre atelier.
 
 ### Pour les ateliers organisés en autonomie seulement
 
@@ -195,7 +194,7 @@ Bonjour [nom],
 
 J'organise un atelier Data Carpentry en [mois prévu]. Data Carpentry est une organisation à but non-lucratif qui aide les chercheur⋅se⋅s à apprendre comment organiser et analyser leurs données de manière efficace et reproductible. Ces ateliers enseignent des compétences qui sont immédiatement utiles aux chercheur⋅se⋅s, en utilisant des jeux de données spécifiques à leur domaine d'expertise, afin qu'ils puissent appliquer rapidement ce qu'ils apprennent à leur propres données. Je suis très enthousiaste à l'idée d'utiliser le contenu des ateliers Data Carpentry ici pour aider nos [doctorant⋅e⋅s, équipes, personnels, enseignant⋅e⋅s, chercheur⋅se⋅s... ] à être plus efficaces dans leur recherche.
 
-J'ai suivi la formation pédagogique pour devenir formateur Data Carpentry, et je suis certifié⋅e pour enseigner leurs ateliers. Afin d'organiser un de leurs atelier, je vais avoir besoin d'un (préféremment deux) co-formateur⋅rice⋅s pour m'aider à enseigner le contenu de l'atelier. Ces ateliers durent deux jours et les formateur⋅rice⋅s généralement alternent après chaque demi-journée. Je pense couvrir [les sujets de votre atelier], et j'espérai que tu puisses enseigner le module sur [sujet]. Data Carpentry fournit des leçons qui sont prêtes à être enseignées, donc nous n'aurons pas à tout faire de zéro. Si tu es intéressé⋅e, tu peux voir le contenu sur [sujet] ici [lien vers la leçon], et le reste du contenu de leurs ateliers ici: http://datacarpentry.org/lessons
+J'ai suivi la formation pédagogique pour devenir formateur Data Carpentry, et je suis certifié⋅e pour enseigner leurs ateliers. Afin d'organiser un de leurs atelier, je vais avoir besoin d'un (préféremment deux) co-formateur⋅rice⋅s pour m'aider à enseigner le contenu de l'atelier. Ces ateliers durent deux jours et les formateur⋅rice⋅s généralement changent après chaque demi-journée. Je pense couvrir [les sujets de votre atelier], et j'espérai que tu puisses enseigner le module sur [sujet]. Data Carpentry fournit des leçons qui sont prêtes à être enseignées, donc nous n'aurons pas à partir de zéro. Si tu es intéressé⋅e, tu peux voir le contenu sur [sujet] ici [lien vers la leçon], et le reste du contenu de leurs ateliers ici: http://datacarpentry.org/lessons
 
 Si tu es intéressé⋅e pour être un⋅e co-formateur⋅rice, dis-le moi et nous pouvons nous voir pour nous organiser. Si tu connais d'autres personnes qui seraient intéressées pour nous aider, n'hésite pas à les contacter.
 
@@ -213,14 +212,14 @@ Pendant l'atelier, je vais avoir besoin d'assistant⋅e⋅s pour aider au cas o�
 
 [Nom de l'institution/organisation] atelier Data Carpentry [dates, lieu]
 
-Le [date], [nom de l'institution/organisation] accueille un atelier Data Carpentry pour [audience cible, sujet]. Les ateliers Data Carpentry enseignent les compétences nécessaires pour débuter avec l'organisation et l'analyse des données dans tous les domaines de recherche. Leur mission est de fournir aux chercheurs/chercheuses une formation accueillante, de haute qualité qui couvre tout le cycle de vie de la recherche basée les données. Les leçons sont spécifiques à des domaines de recherche, et cet atelier se focalise sur [sujet]. Le contenu de l'atelier contiendra :
+Le [date], [nom de l'institution/organisation] accueille un atelier Data Carpentry pour [audience cible, sujet]. Les ateliers Data Carpentry enseignent les compétences nécessaires pour débuter avec l'organisation et l'analyse des données dans tous les domaines de recherche. Leur mission est de fournir aux chercheur⋅se⋅s une formation accueillante, de haute qualité qui couvre tout le cycle de vie de la recherche basée sur les données. Les leçons sont spécifiques à des domaines de recherche, et cet atelier se focalise sur [sujet]. Le contenu de l'atelier contiendra :
 
 - [leçon]
 - [leçon]
 - [leçon]
 - [leçon]
 
-Ces ateliers sont destinées à ceux qui ont peu ou pas d'expérience en programmation, et les formateur⋅rice⋅s font l'une de leur priorités de créer un environement accueillant pour donner aux chercheur⋅se⋅s la confiance dont ils ont besoin pour qu'ils puissent utiliser leurs données pour faire des découvertes. Les participant⋅e⋅s qui ont déjà un peu d'expérience profiteront de cet atelier, car le but n'est pas seulement d'enseigner comment faire des analyses, mais aussi comment organiser ses analyses pour automatiser le processus et le rendre reproductible.
+Ces ateliers sont destinées à ceux⋅elles qui ont peu ou pas d'expérience en programmation, et les formateur⋅rice⋅s font l'une de leur priorités de créer un environement accueillant pour donner aux chercheur⋅se⋅s la confiance dont ils ont besoin pour qu'ils puissent utiliser leurs données pour faire des découvertes. Les participant⋅e⋅s qui ont déjà un peu d'expérience profiteront de cet atelier, car le but n'est pas seulement d'enseigner comment faire des analyses, mais aussi comment organiser ses analyses pour automatiser le processus et le rendre reproductible.
 
 Le nombre de places pour cet atelier est limité, et il est probable que l'atelier soit complet rapidement. [Ajouter une phrase pour préciser si l'atelier est gratuit ou s'il y a des frais d'inscriptions à payer]. Pour vous inscrire, cliquer ici [lien vers la page d'inscription], et pour plus d'informations, vous pouvez visiter la page de l'atelier ici [lien vers le site internet de l'atelier].
 
@@ -255,10 +254,10 @@ N'hésitez pas à nous contacter si vous avez des questions, sinon à [jour de l
 
 Bonjour,
 
-Merci d'avoir participé à notre atelier Data Carpentry. Nous espérons que vous avez appris beaucoup et que vous vous êtes amusé⋅e⋅s.
+Merci d'avoir participé⋅e à notre atelier Data Carpentry. Nous espérons que vous avez appris beaucoup et que vous vous êtes amusé⋅e⋅s.
 
 Si vous ne l'avez pas déjà fait, n'oubliez pas de remplir notre enquête d'après-atelier [lien]. Vos réponses sont essentielles pour nous permettre d'améliorer en permanence nos ateliers pour nos futurs participants.
 
 Si vous avez des commentaires sur l'atelier, ou que vous souhaitez vous impliquer dans la communauté de Data Carpentry, n'hésitez pas à nous contacter (admin@datacarpentry.org). Vous pouvez aussi joindre notre liste de discussion (http://lists.software-carpentry.org/listinfo/discuss), nous suivre sur Twitter (@DataCarpentry), ou vous impliquer dans le développement de nos leçons sur GitHub (https://github.com/datacarpentry).
 
-Nous espérons que nous aurons l'occasion de vous revoir dans votre poursuite de l'amélioration de vos compétences en dans l'analyse de données.
+Nous espérons que nous aurons l'occasion de vous revoir dans votre poursuite de l'amélioration de vos compétences en l'analyse de données.
