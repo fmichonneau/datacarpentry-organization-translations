@@ -144,7 +144,7 @@ Le⋅a formateur⋅rice principal⋅e est aussi responsable de la préparation d
 - Se coordonner avec l'hôte⋅sse pour envoyer au⋅à la coordinateur⋅rice de Data Carpentry les informations sur les participant⋅e⋅s à l'atelier.
 - Compléter les mêmes tâches d'après atelier que les formateur⋅rice⋅s
 
-### Les Responsabilités de tous les formateurs/formatrices
+### Les Responsabilités de tous les formateur⋅rice⋅s
 
 Chaque formateur⋅rice est responsable de la préparation de l'enseignement de leur(s) section(s). N'oubliez pas que le contenu de nos leçons évolue sans cesse, et que même si vous avez enseigné dans le passé, vous devrez vérifier le contenu des leçons pour tout changement éventuel.
 
