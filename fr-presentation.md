@@ -28,8 +28,8 @@ Pour en savoir plus:
 
 ## En chiffres 
 
-1 480 formateur⋅rices
-1 332 ateliers
-37 000 participant⋅es
-44 pays
+- 1 480 formateur⋅rices
+- 1 332 ateliers
+- 37 000 participant⋅es
+- 44 pays
 
